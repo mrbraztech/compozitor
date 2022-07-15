@@ -23,7 +23,7 @@
     <compozitorVersion>0.1.18-SNAPSHOT</compozitorVersion>
     <toolboxVersion>0.0.3</toolboxVersion>
     <velocityVersion>1.7</velocityVersion>
-    <awsVersion>1.11.594</awsVersion>
+    <awsVersion>1.12.261</awsVersion>
     <compileTestingVersion>0.18</compileTestingVersion>
     <guavaVersion>27.0.1-jre</guavaVersion>
   </properties>
